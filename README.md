@@ -22,8 +22,7 @@ A simple password generator built using HTML, CSS, and JavaScript.
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/your-username/password-generator.git
-   cd password-generator
+   git clone https://github.com/shivammourya17/Password-Generator.git
    ```
 
 2. **Run the project**
